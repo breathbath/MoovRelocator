@@ -1,6 +1,6 @@
 {
-  "name": "alchemy/moovrelocator",
-  "version": "master",
+  "name": "breathbath/moovrelocator",
+  "version": "1.0",
   "autoload": {
     "psr-0" : {
       "moov_" : "./"
