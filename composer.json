@@ -1,6 +1,6 @@
 {
   "name": "breathbath/moovrelocator",
-  "version": "1.0",
+  "version": "1.0.2",
   "autoload": {
     "psr-0" : {
       "moov_" : "./"
